@@ -1,0 +1,15 @@
+﻿  main.cpp
+d:\2020\가상현실\과제 6.7\exkeyframe[template]\main.cpp(266): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\2020\가상현실\과제 6.7\exkeyframe[template]\main.cpp(297): warning C4244: '인수': 'double'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\2020\가상현실\과제 6.7\exkeyframe[template]\main.cpp(298): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+d:\2020\가상현실\과제 6.7\exkeyframe[template]\main.cpp(298): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\2020\가상현실\과제 6.7\exkeyframe[template]\main.cpp(299): warning C4244: '인수': 'double'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\2020\가상현실\과제 6.7\exkeyframe[template]\main.cpp(300): warning C4244: '인수': 'double'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\2020\가상현실\과제 6.7\exkeyframe[template]\main.cpp(348): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\2020\가상현실\과제 6.7\exkeyframe[template]\main.cpp(354): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\2020\가상현실\과제 6.7\exkeyframe[template]\main.cpp(355): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\2020\가상현실\과제 6.7\exkeyframe[template]\main.cpp(370): warning C4244: '-=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\2020\가상현실\과제 6.7\exkeyframe[template]\main.cpp(372): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+d:\2020\가상현실\과제 6.7\exkeyframe[template]\main.cpp(376): warning C4244: '+=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\2020\가상현실\과제 6.7\exkeyframe[template]\main.cpp(378): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+  ExKeyFrame.vcxproj -> D:\2020\가상현실\과제 6.7\ExKeyFrame[Template]\x64\Debug\ExKeyFrame.exe
